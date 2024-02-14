@@ -1,0 +1,149 @@
+.App {
+  display: flex;
+  height: 100vh;
+}
+
+.left {
+  flex: 1;
+  /* background-color: aquamarine; */
+  background: linear-gradient(to right, #98c3d3, #8a9ca3);
+}
+
+.right {
+  flex: 5;
+}
+
+.title {
+  padding: 10px;
+}
+
+
+
+.listItems {
+  cursor: pointer;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.listItems h3 {
+  margin: 10px;
+}
+
+.box {
+  border-radius: 25px;
+  border: 1px solid black;
+  width: 80%;
+  margin: auto;
+  margin-top: 40px;
+  padding: 10px;
+  text-align: center;
+  background: linear-gradient(to right, #98c3d3, #09a1dd);
+}
+
+.box .date {
+  font-size: 20px;
+}
+
+.box .date p,
+.box .date h3 {
+  padding: 5px;
+  margin: 0;
+}
+
+.box h1 {
+  font-size: 40px;
+  margin-bottom: 0;
+}
+
+.box h2 {
+  margin-top: 0;
+}
+
+.form {
+  padding: 10px;
+}
+
+input {
+  margin: 15px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  font-size: 16px;
+  padding: 5px;
+  background: linear-gradient(to right, #98c3d3, #8a9ca3);
+  border: none;
+  border-radius: 15px;
+}
+
+.weaForSec {
+  padding: 10px;
+}
+
+.cards {
+  display: flex;
+  margin-left: 10px;
+  margin-right: -10px;
+}
+
+.card {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card div {
+  padding: 10px;
+}
+
+.card>div {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+img {
+  max-width: 90%;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+  width: 300px;
+  height: 150px;
+}
+
+.img {
+  position: relative;
+  display: inline-block;
+  display: flex;
+}
+
+.img div {
+  position: absolute;
+  bottom: 0px;
+  right: 10px;
+  font-size: 20px;
+  color: red;
+  background: linear-gradient(to right, #98c3d3, #8a9ca3);
+}
+
+.forSec {
+  padding: 10px;
+}
+
+.flags {
+  display: flex;
+}
+
+.flag {
+  flex: 1;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  background: linear-gradient(to right, #98c3d3, #8a9ca3);
+}
