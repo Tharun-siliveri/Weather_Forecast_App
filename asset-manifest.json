@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Tharun-siliveri/Weather_Forecast_App.git/static/css/main.584e0014.css",
-    "main.js": "/Tharun-siliveri/Weather_Forecast_App.git/static/js/main.c69c849a.js",
-    "static/media/img4.jpg": "/Tharun-siliveri/Weather_Forecast_App.git/static/media/img4.e1cb98e3b5746d5bad0c.jpg",
-    "static/media/img5.jpg": "/Tharun-siliveri/Weather_Forecast_App.git/static/media/img5.a3ddf2206169b3e238ba.jpg",
-    "static/media/img2.jpg": "/Tharun-siliveri/Weather_Forecast_App.git/static/media/img2.09b81fc712e72b327cbd.jpg",
-    "static/media/img3.jpg": "/Tharun-siliveri/Weather_Forecast_App.git/static/media/img3.451af327c8f0d2bc2372.jpg",
-    "static/media/img1.jpg": "/Tharun-siliveri/Weather_Forecast_App.git/static/media/img1.3533886ee4633e3c20d5.jpg",
-    "index.html": "/Tharun-siliveri/Weather_Forecast_App.git/index.html",
-    "main.584e0014.css.map": "/Tharun-siliveri/Weather_Forecast_App.git/static/css/main.584e0014.css.map",
-    "main.c69c849a.js.map": "/Tharun-siliveri/Weather_Forecast_App.git/static/js/main.c69c849a.js.map"
+    "main.css": "/Weather_Forecast_App/static/css/main.584e0014.css",
+    "main.js": "/Weather_Forecast_App/static/js/main.04acc712.js",
+    "static/media/img4.jpg": "/Weather_Forecast_App/static/media/img4.e1cb98e3b5746d5bad0c.jpg",
+    "static/media/img5.jpg": "/Weather_Forecast_App/static/media/img5.a3ddf2206169b3e238ba.jpg",
+    "static/media/img2.jpg": "/Weather_Forecast_App/static/media/img2.09b81fc712e72b327cbd.jpg",
+    "static/media/img3.jpg": "/Weather_Forecast_App/static/media/img3.451af327c8f0d2bc2372.jpg",
+    "static/media/img1.jpg": "/Weather_Forecast_App/static/media/img1.3533886ee4633e3c20d5.jpg",
+    "index.html": "/Weather_Forecast_App/index.html",
+    "main.584e0014.css.map": "/Weather_Forecast_App/static/css/main.584e0014.css.map",
+    "main.04acc712.js.map": "/Weather_Forecast_App/static/js/main.04acc712.js.map"
   },
   "entrypoints": [
     "static/css/main.584e0014.css",
-    "static/js/main.c69c849a.js"
+    "static/js/main.04acc712.js"
   ]
 }
