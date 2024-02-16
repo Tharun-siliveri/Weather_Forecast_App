@@ -57,7 +57,7 @@ const WeatherForecastSection = () => {
 
     return (
         <div className='weaForSec'>
-            <h1>Weather Forecast</h1>
+            <h1>Weather whatever Forecast</h1>
             <div className='cards'>
                 {weatherData.map((data, index) => (
                     <div key={index} className='card'>
